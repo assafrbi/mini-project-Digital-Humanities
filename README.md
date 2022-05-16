@@ -14,4 +14,4 @@ source for kids names - https://www.cbs.gov.il/he/mediarelease/pages/2021/השמ
 
 
 
-זיהוי מקומות ונושאים לפי התקצירים
+זיהוי מקומות ונושאים לפי התקצירים של סרטים ישראלים
