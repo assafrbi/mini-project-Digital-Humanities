@@ -25,4 +25,17 @@ Tools we plan to use:
 The final project:
   1. working site that contains all relevant data presented by graphs 
   2. List of top movies that has correlations betweem the the ganer and the modeling resualts 
-  3. 
+  3. correlations betweem directors and modeling resualts
+
+data resources: 
+  MetaData:
+  1. https://www.imdb.com
+  2. https://www.wikidata.org/wiki/Wikidata:Main_Page
+  3. https://www.wikipedia.org
+  4. https://jfc.org.il
+  tools:
+  1. https://code.google.com/archive/p/topic-modeling-tool/
+  2. https://mimno.github.io/Mallet/topics.html
+  3. https://pyldavis.readthedocs.io/en/latest/readme.html
+  4. https://github.com/dormbase/IMDBpy
+  5. 
