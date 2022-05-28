@@ -10,12 +10,12 @@ Main objectives:
 
 
 Work plan:
-  1. Metadata resources:
-  
-    a. Imdb
-    b. wikidata/wikipadia
-    c. ארכיון הסרטים הישראלי
-  
+  Metadata resources:
+    1. IMDB
+    2. Wikidata
+    3. wikipadia
+    4. The israeli movie archive
+    
 Tools we plan to use:
   1. Topic modeling tool (one of: Google code,mallet)
   2. Form of DB storage - yaml/json/csv/xmal
