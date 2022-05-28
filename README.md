@@ -28,6 +28,7 @@ The final project:
   3. correlations betweem directors and modeling resualts
 
 data resources: 
+
   MetaData:
   1. https://www.imdb.com
   2. https://www.wikidata.org/wiki/Wikidata:Main_Page
