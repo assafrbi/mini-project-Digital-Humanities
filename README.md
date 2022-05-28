@@ -43,12 +43,12 @@ A list of optional tools:
 ## Final Product
 
 A website will enable users to access our findings and contain all the information they need to understand and use the project, such as:
-  1. About tab - the idea of the project and the process
-  2. Download dataset tab
-  3. The results - 
+  * About tab - the idea of the project and the process
+  * Download dataset tab
+  * The results -
     * A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
     * Movies correlation - topic vice
-    * Statistics regarding the difference between the genre and the topic revealed by the model
+    * * Statistics regarding the difference between the genre and the topic revealed by the model
 
 ## Resources
 
