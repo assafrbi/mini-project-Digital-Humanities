@@ -21,7 +21,7 @@ A list of optional tools:
 
   1. Topic modeling tools
     Google code
-    LDA python package
+    Gensim LDA python package
     Sklearn python package
     Mallet
     
@@ -46,9 +46,9 @@ A website will enable users to access our findings and contain all the informati
   1. About tab - the idea of the project and the process
   2. Download dataset tab
   3. The results - 
-    * A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
-    * Movies correlation - topic vice
-    * Statistics regarding the difference between the genre and the topic revealed by the model
+    - A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
+    - Movies correlation - topic vice
+    - Statistics regarding the difference between the genre and the topic revealed by the model
 
 # Resources
 
@@ -61,3 +61,6 @@ A website will enable users to access our findings and contain all the informati
 7. Mallet https://mimno.github.io/Mallet/topics.html
 8. pyLDAvis https://pyldavis.readthedocs.io/en/latest/readme.html
 9. Bag Of Words https://infogram.com/?utm_source=infogram&utm_medium=webview&utm_campaign=header_logo&utm_content=a5dd0a63-73bc-43d1-8343-61e11a09aeda  
+10. Sklearn LDA https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
+11. Gensim LDA https://radimrehurek.com/gensim/index.html#install
+12. Topic Modeling https://en.wikipedia.org/wiki/Topic_model
