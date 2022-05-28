@@ -18,13 +18,11 @@ A list of optional tools:
 
   * Programming Language
     * Pyhton
-
   * Topic modeling tools
     * Google code
     * Gensim LDA python package
     * Sklearn python package
-    * Mallet
-    
+    * Mallet  
   * DB storage
     * CSV
     * XML
@@ -33,8 +31,7 @@ A list of optional tools:
     
   * Graphic tools
     * pyLDAvis
-    * Bag Of Words
-     
+    * Bag Of Words   
   * Presentation
     * Wix site
      
@@ -48,11 +45,11 @@ A website will enable users to access our findings and contain all the informati
   * The results -
     * A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
     * Movies correlation - topic vice
-    * * Statistics regarding the difference between the genre and the topic revealed by the model
+    * Statistics regarding the difference between the genre and the topic revealed by the model
 
 ## Resources
 
-1. IMDB https://www.imdb.com
+1. [IMDB] (https://www.imdb.com)
 2. IMDBpy https://github.com/dormbase/IMDBpy
 3. Wikidata https://www.wikidata.org/wiki/Wikidata:Main_Page
 4. Wikipedia https://www.wikipedia.org
