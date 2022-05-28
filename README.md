@@ -11,8 +11,11 @@ Main objectives:
 
 Work plan:
   1. Metadata resources:
+  
     a. Imdb
+    
     b. wikidata/wikipadia
+    
     c. ארכיון הסרטים הישראלי
   
 Tools we plan to use:
