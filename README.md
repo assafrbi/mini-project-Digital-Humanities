@@ -16,27 +16,27 @@ As a result, digital humanities metadata in the field of Israeli film industry w
 
 A list of optional tools:
 
-  1. Programming Language
-  * Pyhton
+  * Programming Language
+    * Pyhton
 
-  1. Topic modeling tools
-  * Google code
-  * Gensim LDA python package
-  * Sklearn python package
-  * Mallet
+  * Topic modeling tools
+    * Google code
+    * Gensim LDA python package
+    * Sklearn python package
+    * Mallet
     
-  2. DB storage
-  * CSV
-  * XML
-  * JSON
-  * YAML
+  * DB storage
+    * CSV
+    * XML
+    * JSON
+    * YAML
     
-  5. Graphic tools
-  * pyLDAvis
-  * Bag Of Words
+  * Graphic tools
+    * pyLDAvis
+    * Bag Of Words
      
-  7. Presentation
-  * Wix site
+  * Presentation
+    * Wix site
      
 
 
@@ -46,9 +46,9 @@ A website will enable users to access our findings and contain all the informati
   1. About tab - the idea of the project and the process
   2. Download dataset tab
   3. The results - 
-    - A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
-    - Movies correlation - topic vice
-    - Statistics regarding the difference between the genre and the topic revealed by the model
+    * A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
+    * Movies correlation - topic vice
+    * Statistics regarding the difference between the genre and the topic revealed by the model
 
 ## Resources
 
