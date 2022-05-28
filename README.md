@@ -49,6 +49,7 @@ A website will enable users to access our findings and contain all the informati
 
 ## Resources
 
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
 1. [IMDB] (https://www.imdb.com)
 2. IMDBpy https://github.com/dormbase/IMDBpy
 3. Wikidata https://www.wikidata.org/wiki/Wikidata:Main_Page
