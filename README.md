@@ -1,46 +1,46 @@
 # Topic Modeling of Israeli Movies Synopses - Digital Humanities Mini Project
 
-# Main Objective
+## Main Objective
 
 In this project, we will explore the hidden themes behind IMDB movie synopses, originating from Israel.
 We are particularly interested in applying the topic modeling method to discover topics from corpus.
 This will allow us to gain some insight into movie topic trends and interesting dynamics within the movies created by the Israeli film industry.
 
-# The Relation to Digital Humanities
+## The Relation to Digital Humanities
 
 We intend the project to serve as a method of distant reading, since we hope to represent our parsed metadata results in a graphical form.
 We will also make use of already digitized datasets, such as IMDB and Wikidata, to produce new data sets that can be accessed by others.
 As a result, digital humanities metadata in the field of Israeli film industry will be enriched.
 
-# Technology
+## Technology
 
 A list of optional tools:
 
   1. Programming Language
-    Pyhton
+  * Pyhton
 
   1. Topic modeling tools
-    Google code
-    Gensim LDA python package
-    Sklearn python package
-    Mallet
+  * Google code
+  * Gensim LDA python package
+  * Sklearn python package
+  * Mallet
     
   2. DB storage
-    CSV
-    XML
-    JSON
-    YAML
+  * CSV
+  * XML
+  * JSON
+  * YAML
     
   5. Graphic tools
-     pyLDAvis
-     Bag Of Words
+  * pyLDAvis
+  * Bag Of Words
      
   7. Presentation
-     Wix site
+  * Wix site
      
 
 
-# Final Product
+## Final Product
 
 A website will enable users to access our findings and contain all the information they need to understand and use the project, such as:
   1. About tab - the idea of the project and the process
@@ -50,7 +50,7 @@ A website will enable users to access our findings and contain all the informati
     - Movies correlation - topic vice
     - Statistics regarding the difference between the genre and the topic revealed by the model
 
-# Resources
+## Resources
 
 1. IMDB https://www.imdb.com
 2. IMDBpy https://github.com/dormbase/IMDBpy
