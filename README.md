@@ -10,8 +10,8 @@ Main objectives:
 
 
 Work plan:
+
   Metadata resources:
-  
     1. IMDB
     2. Wikidata
     3. wikipadia
