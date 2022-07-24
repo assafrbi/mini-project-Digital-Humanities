@@ -45,14 +45,10 @@ A Github project and Notebook that enables users to access our findings (encludi
 ## Resources
 
 * [IMDB](https://www.imdb.com)
-* [IMDBpy](https://github.com/dormbase/IMDBpy)
-* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
-* [Wikipedia](https://www.wikipedia.org)
+* [Cinemagoer (aka IMDBpy)](https://imdbpy.readthedocs.io/en/latest/)
 * [Text preprocessing Techniques](https://github.com/Deffro/text-preprocessing-techniques/blob/master/techniques.py)
-* [Google code](https://code.google.com/archive/p/topic-modeling-tool/)
-* [Mallet](https://mimno.github.io/Mallet/topics.html)
 * [pyLDAvis](https://pyldavis.readthedocs.io/en/latest/readme.html)
 * [Bag Of Words](https://infogram.com/?utm_source=infogram&utm_medium=webview&utm_campaign=header_logo&utm_content=a5dd0a63-73bc-43d1-8343-61e11a09aeda)
-* [Sklearn LDA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
 * [Gensim LDA](https://radimrehurek.com/gensim/index.html#install)
 * [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
+* [Wikipedia](https://www.wikipedia.org)
