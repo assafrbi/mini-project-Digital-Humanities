@@ -47,7 +47,7 @@ A Github project and Notebook that enables users to access our findings:
 ## Resources
 
 * [IMDB](https://www.imdb.com)
-* [Cinemagoer (aka IMDBpy)](https://imdbpy.readthedocs.io/en/latest/)
+* [Cinemagoer (IMDBpy)](https://imdbpy.readthedocs.io/en/latest/)
 * [Text preprocessing Techniques](https://github.com/Deffro/text-preprocessing-techniques/blob/master/techniques.py)
 * [pyLDAvis](https://pyldavis.readthedocs.io/en/latest/readme.html)
 * [Bag Of Words](https://infogram.com/?utm_source=infogram&utm_medium=webview&utm_campaign=header_logo&utm_content=a5dd0a63-73bc-43d1-8343-61e11a09aeda)
