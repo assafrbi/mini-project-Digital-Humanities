@@ -12,7 +12,7 @@ Our Project serves as a method of distant reading, since we represent our parsed
 We also make use of already digitized dataset - IMDB, to produce new data sets that can be accessed by others.
 As a result, digital humanities metadata in the field of Israeli film industry is enriched.
 
-## The Work Process and Technology
+## Methodology
 
 Cinemagoer - an IMDB API, and Web Scaping technique assisted in gathering movies dataset, which encludes IMDB ID, Title, Release Year, Genre and Synopses.
 Then, we performed text preprocessing (such as removal of new lines, quotes, lowercase all text, stopwords) after which we used Topic Modeling - Genesim LDA tool.
