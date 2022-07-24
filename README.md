@@ -44,7 +44,6 @@ A Github project and Notebook that enables users to access our findings:
  * A graphic representation in form of "bag of words" of each topic (i.e. the larger the font size of the word, the more popular it is among the dataset)
  * The genres assinged to each topic that revealed by the model
  * The average year of movies in each topic that revealed by the model
- * Movies correlation - topic vice
 
 ## Resources
 
