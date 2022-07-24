@@ -2,50 +2,40 @@
 
 ## Main Objective
 
-In this project, we will explore the hidden themes behind IMDB movie synopses, originating from Israel.
-We are particularly interested in applying the topic modeling method to discover topics from corpus.
-This will allow us to gain some insight into movie topic trends and interesting dynamics within the movies created by the Israeli film industry.
+In this project, we explore the hidden themes behind IMDB movie synopses, originating from Israel.
+We are doing so by applying the topic modeling method, which allows us to discover topics from corpus, gain insights on movie topic trends and dynamics within the movies created by the Israeli film industry, through the years.
 
 ## The Relation to Digital Humanities
+Out Project serves as a method of distant reading, since we represent our parsed metadata results in a graphical form.
+We also make use of already digitized dataset - IMDB, to produce new data sets that can be accessed by others.
+As a result, digital humanities metadata in the field of Israeli film industry is enriched.
 
-We intend the project to serve as a method of distant reading, since we hope to represent our parsed metadata results in a graphical form.
-We will also make use of already digitized datasets, such as IMDB and Wikidata, to produce new data sets that can be accessed by others.
-As a result, digital humanities metadata in the field of Israeli film industry will be enriched.
+## The Work Process and Technology
 
-## Work Plan & Technology
+Cinemagoer - an IMDB API, and Web Scaping technique assisted in gathering movies dataset, which encludes IMDB ID, Title, Release Year, Genre and Synopses.
+Then, we performed text preprocessing (such as removal of new lines, quotes, lowercase all text, stopwords) after which we used Topic Modeling - Genesim LDA tool.
+The model evaluated topics for each document (aka record) by its Synopsis.
+Finally, the evaluated data allowed us to visualize the results as Intertopic Distance Map, WordCloud and also gain information egarding the average year of movies assigned to each topic and the genres assosicated with them.
 
-IMDB and Wikidata/Wikipedia APIs will assist us in gathering movies synopses datasets.
-Then, we will perform text preprocessing (such as removal of new lines, quotes, lowercase all text etc.) after which we will use topic modeling LDA tool.
-The selected tool will evaluate topics for each document (synopses).
-Finally, the evaluated data will allow us visualize the results.
-
-A list of optional tools:
+Tools list:
 
   * Programming Language
     * Pyhton
-  * Topic modeling tools
-    * Google code
-    * Gensim LDA python package
-    * Sklearn python package
-    * Mallet  
-  * DB storage
+  * Topic modeling tool
+    * Gensim LDA python package 
+  * DB formatt
     * CSV
-    * XML
-    * JSON
-    * YAML
-    
   * Graphic tools
     * pyLDAvis
     * Bag Of Words   
   * Presentation
-    * Wix site
+    * Google Colab Notebook
      
-
 
 ## Final Product
 
-A website will enable users to access our findings and contain all the information they need to understand and use the project, such as:
-  * About tab - the idea of the project and the process
+A Github project and Notebook that enables users to access our findings (encluding code) and contain all the information they need to understand and use the project, such as:
+  * The idea of the project and the process
   * Download dataset tab
   * The results -
     * A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
