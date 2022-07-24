@@ -6,7 +6,9 @@ In this project, we explore the hidden themes behind IMDB movie synopses, origin
 We are doing so by applying the topic modeling method, which allows us to discover topics from corpus, gain insights on movie topic trends and dynamics within the movies created by the Israeli film industry, through the years.
 
 ## The Relation to Digital Humanities
-Out Project serves as a method of distant reading, since we represent our parsed metadata results in a graphical form.
+A mechanism for managing, searching, and processing digital data is essential with the increasing amount of data available today. Otherwise, we will just clutter up our storage space. The natural language processing (NLP) technique is an excellent tool for processing digital text data. The topic modeling approach is an unsupervised learning approach for discovering hidden text structures as well as document similarity.
+
+Our Project serves as a method of distant reading, since we represent our parsed metadata results in a graphical form.
 We also make use of already digitized dataset - IMDB, to produce new data sets that can be accessed by others.
 As a result, digital humanities metadata in the field of Israeli film industry is enriched.
 
