@@ -15,7 +15,7 @@ As a result, digital humanities metadata in the field of Israeli film industry i
 Cinemagoer - an IMDB API, and Web Scaping technique assisted in gathering movies dataset, which encludes IMDB ID, Title, Release Year, Genre and Synopses.
 Then, we performed text preprocessing (such as removal of new lines, quotes, lowercase all text, stopwords) after which we used Topic Modeling - Genesim LDA tool.
 The model evaluated topics for each document (aka record) by its Synopsis.
-Finally, the evaluated data allowed us to visualize the results as Intertopic Distance Map, WordCloud and also gain information egarding the average year of movies assigned to each topic and the genres assosicated with them.
+Finally, the evaluated data allowed us to visualize the results as Intertopic Distance Map, WordCloud and also gain information regarding the average year of movies assigned to each topic and the genres assosicated with them.
 
 Tools list:
 
@@ -34,13 +34,16 @@ Tools list:
 
 ## Final Product
 
-A Github project and Notebook that enables users to access our findings (encluding code) and contain all the information they need to understand and use the project, such as:
-  * The idea of the project and the process
-  * Download dataset tab
-  * The results -
-    * A graphic representation in form of "bag of words" of the topics statistics, i.e. the larger the font size of the word (topic), the more popular it is among the data set we create.
-    * Movies correlation - topic vice
-    * Statistics regarding the difference between the genre and the topic revealed by the model
+A Github project and Notebook that enables users to access our findings:
+* Dataset
+* Code
+* Information needed to understand and use the project
+* The idea of the project and the process
+* The results -
+ * A graphic representation in form of "bag of words" of each topic (i.e. the larger the font size of the word, the more popular it is among the dataset)
+ * The genres assinged to each topic that revealed by the model
+ * The average year of movies in each topic that revealed by the model
+ * Movies correlation - topic vice
 
 ## Resources
 
